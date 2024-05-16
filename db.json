@@ -60,7 +60,6 @@
             ],
             "price": "$30"
           },
-          
           {
             "id": "10x10-popup-tent",
             "title": "10' x 10' Popup Tent",
@@ -72,14 +71,17 @@
             ],
             "price": "$150"
           },
+
+
           {
             "id": "10x20-popup-tent",
             "title": "10' x 20' Popup Tent",
             "description": "These professional, high-quality canopy tents were engineered specifically for fast setup and teardown without the need for a lot of additional parts. <br/> The tent frame expands outward for setup and contracts inward for teardown, making preparations for your next outdoor event a snap. <br/> If you want to save money and time, you can choose to pick up and set up a pop up tent yourself.<br/>  We offer this option for our customers who want to avoid delivery charges and enjoy the convenience of a pop up tent.",
             "imageUrl": [
+              "/products_content/Tents/Pop Up tents/10' x 10' Popup Tent/17.jpg",
+              "/products_content/Tents/Pop Up tents/10' x 20' Popup Tent/15.jpg",
               "/products_content/Tents/Pop Up tents/10' x 20' Popup Tent/12.jpg",
-              "/products_content/Tents/Pop Up tents/10' x 20' Popup Tent/13.jpg",
-              "/products_content/Tents/Pop Up tents/10' x 20' Popup Tent/15.jpg"
+              "/products_content/Tents/Pop Up tents/10' x 20' Popup Tent/13.jpg"
             ],
             "price": "$250"
           }
@@ -110,8 +112,8 @@
         "title": "80 person Tent Package",
         "description": "Our 80 person package is perfect for graduation party, informal backyard wedding, small company gathering, etc.<br/>This package includes a tent, tables and chairs plus delivery, installation, and removal (under normal circumstances). <br/> What's included? <br/> 20x40 high-peak frame tent <br/> (8) 60' round tables <br/> 80 white folding chairs <br/> (3) 6ft long tables for food / gifts",
         "imageUrl": [
-          "/products_content/Tent Packages/80 Person Tent Package/23.jpg",
-          "/products_content/Tent Packages/80 Person Tent Package/69.jpg"
+          "/products_content/Tent Packages/80 Person tent Package/23.jpg",
+          "/products_content/Tent Packages/80 Person tent Package/26.jpg"
         ],
         "price": "$1299<br/>Optional add-ons:<br/>White glass string lights - $50<br/>Windowed side-walls for tent - $25-$30 per 20’ section<br/>White linens for tables - $12 each<br/>Tent heater(including propane tank) - $120<br/>High-top tables - $14 each"
       }
@@ -122,9 +124,9 @@
       "title": "Cocktail Tables",
       "description": "Our folding cocktail tables are easy to trasport unlike the traditional tables. Whether you are hosting a wedding reception, a corporate party, or a birthday celebration, cocktail tables can make your event more fun and memorable. <br/>If you are looking for high-quality and affordable folding cocktail tables, you should book them from our rental company.",
       "imageUrl": [
-        "/products_content/tables/Cocktail Tables/32 Inch White Round Cocktail Tables/1.jpg",
-        "/products_content/tables/Cocktail Tables/32 Inch White Round Cocktail Tables/2.jpg",
-        "/products_content/tables/Cocktail Tables/32 Inch White Round Cocktail Tables/58.jpg"
+        "/products_content/Tables/Cocktail Tables/32 Inch White Round Cocktail Tables/1.jpg",
+        "/products_content/Tables/Cocktail Tables/32 Inch White Round Cocktail Tables/2.jpg",
+        "/products_content/Tables/Cocktail Tables/32 Inch White Round Cocktail Tables/58.jpg"
       ],
       "price": "$14"
     },
@@ -133,9 +135,9 @@
       "title": "Rectangular Tables",
       "description": "Our 6ft Plastic Folding Tables are lightweight and super portable. They are easy to fit in a car or SUV, seat 6-8 guests. Great for both indoors and outdoors and have handles attached for easy transport.",
       "imageUrl": [
-        "/products_content/tables/Rectangular Tables/72 Inch White Rectangular Tables/7.jpg",
-        "/products_content/tables/Rectangular Tables/72 Inch White Rectangular Tables/6.jpg",
-        "/products_content/tables/Rectangular Tables/72 Inch White Rectangular Tables/8.jpg"
+        "/products_content/Tables/Rectangular Tables/72 Inch White Rectangular Tables/7.jpg",
+        "/products_content/Tables/Rectangular Tables/72 Inch White Rectangular Tables/6.jpg",
+        "/products_content/Tables/Rectangular Tables/72 Inch White Rectangular Tables/8.jpg"
       ],
       "price": "$12"
     },
@@ -144,10 +146,10 @@
       "title": "Round Tables",
       "description": "Our most popular 5ft Plastic Folding Tables are heavy duty and super sturdy perfect for receptions and corporate events. Great for both indoors & outdoors, easily seat 6-8 guests.",
       "imageUrl": [
-        "/products_content/tables/Round Tables/60 Inch White Round Tables/4.jpg",
-        "/products_content/tables/Round Tables/60 Inch White Round Tables/5.jpg",
-        "/products_content/tables/Round Tables/60 Inch White Round Tables/10.jpg",
-        "/products_content/tables/Round Tables/60 Inch White Round Tables/27.jpg"
+        "/products_content/Tables/Round Tables/60 Inch White Round Tables/4.jpg",
+        "/products_content/Tables/Round Tables/60 Inch White Round Tables/5.jpg",
+        "/products_content/Tables/Round Tables/60 Inch White Round Tables/10.jpg",
+        "/products_content/Tables/Round Tables/60 Inch White Round Tables/27.jpg"
       ],
       "price": "$12"
     }

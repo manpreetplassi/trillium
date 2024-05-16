@@ -1,0 +1,5 @@
+deployment:
+  tasks:
+#     - export DEPLOYPATH=/path/to/your/destination/   # Modify this line to specify the destination path
+#     - /bin/cp path/to/your/source/index.html $DEPLOYPATH   # Modify this line to specify the source path of index.html
+#     - /bin/cp path/to/your/source/style.css $DEPLOYPATH   # Modify this line to specify the source path of style.css
