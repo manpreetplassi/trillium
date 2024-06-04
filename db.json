@@ -8,7 +8,8 @@
         "/products_content/Tents/10' X 20' Tent/c08y10x20_10_x_20_pinnacle_high_peak_frame_tent__05362.jpg"
       ],
       "price": "$350"
-    }, {
+    }, 
+    {
       "id": "15'X15'-tent",
       "title": "15' X 15' Tent",
       "description": "This is our 15x15ft event tent, it comes with sidewalls and can host upto 30 people perfect for backyard parties and small corporate events. Inquire today for availability!",
@@ -22,7 +23,7 @@
       "title": "15' X 30' Tent",
       "description": "This is our 15x30ft event tent, it comes with sidewalls and can host upto 60 people perfect for backyard parties and small corporate events. Inquire today for availability!",
       "imageUrl": [
-        "/products_content/Tents/15' X 30' Tent/c08y15x30_15_x_30_pinnacle_high_peak_frame_tent__41048.jpg"
+        "/products_content/Tents/15' X 30' Tent/tent4.jpg"
       ],
       "price": "$450"
     }, 
@@ -31,7 +32,7 @@
       "title": "15' X 30' Tent",
       "description": "This is our 20x30ft event tent, it comes with sidewalls and can host upto 70 people perfect for backyard parties and small corporate events. Inquire today for availability!",
       "imageUrl": [
-        "/products_content/Tents/20' X 30' Tent/c08y20x30_20_x_30_pinnacle_high_peak_frame_tent__81838 (1).jpg"
+        "/products_content/Tents/20' X 30' Tent/tent_5.jpg"
       ],
       "price": "$700"
     }, 
